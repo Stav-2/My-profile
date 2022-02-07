@@ -1,0 +1,24 @@
+<!DOCOTYPE html>
+<html>
+      <head>
+	       <title>My profile<title>
+		   <h1>Stav Goldstein</h2>
+		   <h2>Junior QA Engeneer
+		   <img src=https://mail.google.com/mail/u/0/#inbox/QgrcJHsBnjcrfpgdhTGgTsNWljgKpHWQZRl?projector=1&messagePartId=0.1
+	   </head>
+	   <p><a href="www.linkedin.com/in/stavgold" title="Linkdin">
+      <img src="https://he.m.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:LinkedIn_logo_initials.png"</p>
+	   <p>Graduated from QA course in Thechnion university.
+	   Hardworker,ready to learn new things and very motivated. 
+	   <a href =file:///C:/Users/Stav/Downloads/Stav%20Goldstein%20cv%20(4).pdf title="My resume"></p>
+	   <body>
+	   <strong>
+	   <head>
+	        <h1>My projects</h1>
+		<body> 
+		     <ul>
+			     <li>Warehouse project- On that project me and my teamates gone over a warehouse managment software specification. We wrote test cases in Test Rail ans STP doucument. <a href:"C:\Users\Stav\Downloads\מצגת פרויקט מערכת ניהול מחסן - מוכן.pptx" title="Warehouse project"  </li>
+				 <li>Web project On that project me and my teamate found bugs in "Yale school of art" webside, we reported them on Jira and wrote STR doucument.</li> <a href:"https://docs.google.com/presentation/d/103Umie5qtU6CpBGIt8G0GwFmTq70PIJy/edit#slide=id.p1" title=Web project </Li>
+				 <li>Mobile project On that project me and my teamate found bugs in "Shufersal" app and reported them on Monday.</li>
+	      <strong>
+</html>		
